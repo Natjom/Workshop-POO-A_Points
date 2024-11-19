@@ -1,0 +1,26 @@
+La classe voiture dispose des caractéristiques :
+vitesseMax, vitesse, accélération et du nombre d’objets créés qui est incrémenté à chaque nouvelle instance.
+
+Elle dispose aussi d’un constructeur par défaut, d’un constructeur surchargé qui accepte le paramétrage de la vitesse maximale ainsi que sa capacité d’accélération, et d’une méthode d’initialisation de l’objet.
+
+La vitesseMax ne peut pas être supérieure à 100, l’accélération ne peut pas être supérieure à 3.
+
+La méthode accélérer incrémente la vitesse de la voiture en fonction du paramètre accélération et ce jusqu’à vitesseMax.
+
+La classe voiture de sport dispose des caractéristiques :
+vitesseMax, vitesse, accélération et du nombre d’objets créés qui est incrémenté à chaque nouvelle instance.
+
+Elle dispose aussi d’un constructeur par défaut, d’un constructeur surchargé qui accepte le paramétrage de la vitesse maximale ainsi que sa capacité d’accélération, et d’une méthode d’initialisation de l’objet.
+
+La vitesseMax ne peut pas être supérieure à 200, l’accélération ne peut pas être supérieure à 8.
+
+La méthode accélérer incrémente la vitesse de la voiture en fonction du paramètre accélération et ce jusqu’à vitesseMax. Elle indique également que c’est une voiture de sport.
+
+Dans le main, créez et utilisez deux voitures (voiture et voiture de sport).
+
+Faites accélérer les véhicules.
+
+Modifiez le type voiture en type sport lors de l’exécution du programme.
+
+Faites accélérer les véhicules.
+

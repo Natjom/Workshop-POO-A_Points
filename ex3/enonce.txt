@@ -1,0 +1,16 @@
+Une voiture peut être lavée.
+Affichez alors « Voiture lavée ».
+
+Une moto peut également être lavée.
+Affichez « Moto lavée ».
+
+Une station de lavage peut accueillir un nombre indéterminé de véhicules, à la compilation du programme.
+Ces véhicules peuvent être des motos, des voitures, ou une combinaison des deux.
+
+La station doit pouvoir lancer le lavage de tous les véhicules présents dans le parc.
+
+Dans le programme principal, créez deux voitures et une moto, puis envoyez-les à la station de lavage.
+Lancez le lavage sur tous les véhicules.
+
+Modifiez ensuite le type de la première voiture pour la transformer en moto pendant l'exécution du programme.
+Mettez à jour le parc de véhicules de la station de lavage et relancez le lavage sur tout le parc.

@@ -1,0 +1,7 @@
+Un saxophone est un instrument de musique.
+Il produit le son caractéristique du saxophone.
+Un piano est également un instrument de musique.
+Il produit le son caractéristique d’un piano.
+
+Dans votre programme, demandez à l’utilisateur quel instrument il souhaite jouer.
+Ensuite, faites jouer le bon instrument, sans allouer les deux types d'instruments.

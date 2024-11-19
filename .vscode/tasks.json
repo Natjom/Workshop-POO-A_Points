@@ -1,0 +1,25 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-o",
+                "${workspaceFolder}/bin/mon_programme.exe",
+                "${workspaceFolder}/src/main.cpp",
+                "-IC:/Chemin/Vers/SFML/include",  // Ajoutez le chemin vers les fichiers d'en-tête de SFML
+                "-LC:/Chemin/Vers/SFML/lib",  // Ajoutez le chemin vers les bibliothèques de SFML
+                "-lsfml-audio",
+                "-lsfml-system",
+                "-lsfml-graphics",  // Si vous utilisez des fonctionnalités graphiques
+                "-lsfml-window"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
